@@ -1,0 +1,7 @@
+# Safe-PIML: Python dependencies
+# Tested with Python 3.10 on Ubuntu 22.04
+numpy==1.24.4
+scipy==1.11.4
+matplotlib==3.8.2
+torch==2.1.2
+osqp==0.6.3
