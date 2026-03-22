@@ -3,8 +3,6 @@
 **Author:** Hamzah Faraj  
 **Affiliation:** Department of Science and Technology, Ranyah College, Taif University, Taif 21944, Saudi Arabia  
 **Contact:** f.hamzah@tu.edu.sa  
-**Target Journal:** Journal of King Saud University – Engineering Sciences (JKSU-ES)  
-**Status:** Submission-ready
 
 ---
 
