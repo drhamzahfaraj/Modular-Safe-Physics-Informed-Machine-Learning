@@ -1,0 +1,58 @@
+{
+  "nominal_mpc": {
+    "viol_rate": 0.0,
+    "max_viol": 0.0,
+    "rmse": 0.0412,
+    "cost": 18.7,
+    "latency_ms": 8.3,
+    "mem_kb": 112
+  },
+  "nn_no_filter": {
+    "viol_rate": 4.82,
+    "max_viol": 0.073,
+    "rmse": 0.0328,
+    "cost": 14.2,
+    "latency_ms": 1.2,
+    "mem_kb": 38
+  },
+  "learning_tube": {
+    "viol_rate": 0.31,
+    "max_viol": 0.018,
+    "rmse": 0.0351,
+    "cost": 15.8,
+    "latency_ms": 12.5,
+    "mem_kb": 130
+  },
+  "nn_distilled": {
+    "viol_rate": 2.14,
+    "max_viol": 0.048,
+    "rmse": 0.0335,
+    "cost": 14.9,
+    "latency_ms": 1.4,
+    "mem_kb": 38
+  },
+  "psf_nominal": {
+    "viol_rate": 0.42,
+    "max_viol": 0.025,
+    "rmse": 0.0398,
+    "cost": 17.6,
+    "latency_ms": 9.6,
+    "mem_kb": 112
+  },
+  "nn_safe_piml": {
+    "viol_rate": 0.15,
+    "max_viol": 0.009,
+    "rmse": 0.0342,
+    "cost": 15.3,
+    "latency_ms": 10.9,
+    "mem_kb": 128
+  },
+  "safe_piml": {
+    "viol_rate": 0.08,
+    "max_viol": 0.005,
+    "rmse": 0.0356,
+    "cost": 16.1,
+    "latency_ms": 11.7,
+    "mem_kb": 117
+  }
+}

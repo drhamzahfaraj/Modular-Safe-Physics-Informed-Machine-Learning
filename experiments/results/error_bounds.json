@@ -1,0 +1,25 @@
+{
+  "pendulum": {
+    "L_r": 0.78,
+    "bar_sigma": 0.5,
+    "bar_epsilon": 0.008,
+    "delta": 0.05,
+    "bar_e": 0.072,
+    "max_observed_jacobian": 0.48,
+    "L_r_derivation": "(g/l)*max|cos(x)-1|*Ts = 19.62*2*0.02 = 0.78"
+  },
+  "dcdc": {
+    "L_r": 0.11,
+    "bar_sigma": 0.5,
+    "bar_epsilon": 0.003,
+    "delta": 0.02,
+    "bar_e": 0.015,
+    "max_observed_jacobian": 0.46,
+    "L_r_derivation": "0.05*||A||_2 = 0.05*2.165 = 0.11"
+  },
+  "blackbox_comparison": {
+    "bar_e_pendulum_bb": 0.172,
+    "tube_ratio": 2.4,
+    "interpretation": "Black-box yields ~2x larger tubes"
+  }
+}

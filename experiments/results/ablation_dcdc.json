@@ -1,0 +1,42 @@
+{
+  "full": {
+    "viol_rate": 0.08,
+    "max_viol": 0.005,
+    "rmse": 0.0356,
+    "cost": 16.1,
+    "lat": 11.7,
+    "mem": 117
+  },
+  "no_residual": {
+    "viol_rate": 0.42,
+    "max_viol": 0.025,
+    "rmse": 0.0398,
+    "cost": 17.6,
+    "lat": 9.6,
+    "mem": 112
+  },
+  "no_physics": {
+    "viol_rate": 2.13,
+    "max_viol": 0.078,
+    "rmse": 0.0369,
+    "cost": 16.6,
+    "lat": 11.5,
+    "mem": 117
+  },
+  "short_horizon": {
+    "viol_rate": 1.14,
+    "max_viol": 0.045,
+    "rmse": 0.0384,
+    "cost": 17.2,
+    "lat": 6.8,
+    "mem": 110
+  },
+  "int8": {
+    "viol_rate": 0.12,
+    "max_viol": 0.008,
+    "rmse": 0.0361,
+    "cost": 16.3,
+    "lat": 10.4,
+    "mem": 113
+  }
+}

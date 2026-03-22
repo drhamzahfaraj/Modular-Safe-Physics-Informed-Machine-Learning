@@ -1,0 +1,50 @@
+{
+  "physics_mpc": {
+    "viol_rate": 3.42,
+    "max_viol": 0.087,
+    "rmse": 0.0521,
+    "cost": 214.3,
+    "latency_ms": 12.6,
+    "mem_kb": 112
+  },
+  "blackbox_nn": {
+    "viol_rate": 8.17,
+    "max_viol": 0.214,
+    "rmse": 0.0438,
+    "cost": 198.6,
+    "latency_ms": 18.4,
+    "mem_kb": 180
+  },
+  "hnn_no_filter": {
+    "viol_rate": 5.63,
+    "max_viol": 0.152,
+    "rmse": 0.0412,
+    "cost": 191.8,
+    "latency_ms": 35.7,
+    "mem_kb": 288
+  },
+  "hnn_filter": {
+    "viol_rate": 1.52,
+    "max_viol": 0.041,
+    "rmse": 0.0428,
+    "cost": 196.4,
+    "latency_ms": 32.1,
+    "mem_kb": 288
+  },
+  "psf_nominal": {
+    "viol_rate": 2.18,
+    "max_viol": 0.063,
+    "rmse": 0.0587,
+    "cost": 228.5,
+    "latency_ms": 14.3,
+    "mem_kb": 112
+  },
+  "safe_piml": {
+    "viol_rate": 0.84,
+    "max_viol": 0.021,
+    "rmse": 0.0465,
+    "cost": 203.7,
+    "latency_ms": 16.9,
+    "mem_kb": 117
+  }
+}
