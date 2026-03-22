@@ -66,18 +66,6 @@ python generate_figures.py  # Regenerates all paper figures
 
 All experiments use `seed=42` for reproducibility. Results are saved as JSON in `experiments/results/`.
 
-## Citation
-
-```bibtex
-@article{faraj2026safepiml,
-  author  = {Faraj, Hamzah},
-  title   = {Modular Safe Physics-Informed Machine Learning for Dynamics
-             and Control of Autonomous Robotic Systems},
-  journal = {Journal of King Saud University -- Engineering Sciences},
-  year    = {2026},
-  note    = {Under review}
-}
-```
 
 ## Acknowledgements
 
