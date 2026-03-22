@@ -51,8 +51,7 @@ Physics-informed machine learning (PIML) has emerged as a promising approach for
 │       ├── scalability.json           # All scalability data
 │       └── error_bounds.json          # Proposition 1 instantiation
 └── notes/
-    ├── design_decisions.md            # Justifications for all design choices
-    └── revision_log.md                # Change log across revisions
+   └── design_decisions.md            # Justifications for all design choices
 ```
 
 ## Reproducing Results
